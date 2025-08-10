@@ -2,7 +2,7 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
-#include "ssd1306.h"
+#include "../ssd1306.h"
 #include<string.h>
 
 int main(void) {
